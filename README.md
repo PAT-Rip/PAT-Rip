@@ -13,14 +13,20 @@ I'm currently open to opportunities in data analytics where I can apply my skill
 
 ---
 
-### 🔧 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### 🔧 Skills
 
+- Languages: Python, SQL  
+- Data Analysis & Visualization: Tableau, Kibana, Pandas, Matplotlib  
+- Database Management: PostgreSQL
+- Other Skills: Feature Engineering, Data Wrangling
 ---
 
 📫 **Let's Connect!**  
 [LinkedIn](https://www.linkedin.com/in/your-linkedin) | [Email](mailto:your.email@example.com)
+
+---
+
+**Glad you dropped by!**  
+Check out my projects and don’t hesitate to reach out—I'm excited to connect and collaborate on anything related to data analytics!
+
 
