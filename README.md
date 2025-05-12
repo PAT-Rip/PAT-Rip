@@ -22,7 +22,7 @@ I'm currently open to opportunities in data analytics where I can apply my skill
 ---
 
 📫 **Let's Connect!**  
-[LinkedIn](www.linkedin.com/in/rifatsyq) | [Email](mailto:rifatsyq2@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rifatsyq) | [Email](mailto:rifatsyq2@gmail.com)
 
 ---
 
