@@ -27,6 +27,7 @@ I'm currently open to opportunities in data analytics where I can apply my skill
 ---
 
 **Glad you dropped by!**  
-Check out my projects and don’t hesitate to reach out—I'm excited to connect and collaborate on anything related to data analytics!
+Check out my projects and don’t hesitate to reach out — I’m excited to connect and collaborate on anything related to data analytics!
+👉 [Here’s my portfolio](https://pat-rip.github.io/portofolio/) for more details.
 
 
